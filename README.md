@@ -13,4 +13,4 @@ Download the project folder and run the .app file to play.
 # Screenshots
 ![Unity View](https://github.com/jonhoofficial/roll-a-ball-game/blob/master/Screenshots/Unity%20View%201.png)
 
-![Game View](https://github.com/jonhoofficial/roll-a-ball-game/blob/master/Screenshots/Game%20View%201.png)
+![Game View](https://github.com/jonhoofficial/roll-a-ball-game/blob/master/Screenshots/Game%20View%202.png)
